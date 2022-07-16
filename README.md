@@ -11,6 +11,8 @@ This project was completed in Python JupyterNotebook and the ipynb file can be f
 
 
 ## Summmary of Findings
+_Based on published data on the Wikipedia page as of 2022-07-16_
+
 ### Attempt by Country
 
 France was identified to have recorded the highest number prison break attempts by means of helicopter, followed by the United States, with a record total of 18 and 8 attempts as of date, respectively.
