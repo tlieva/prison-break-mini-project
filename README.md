@@ -20,6 +20,6 @@ Table | Graph
 <img width="289" alt="Screen Shot 2022-07-15 at 10 20 14 PM" src="https://user-images.githubusercontent.com/106416383/179335399-ff091a8d-9a98-4a08-8e16-2c4e96325013.png"> | <img width="398" alt="Screen Shot 2022-07-15 at 10 20 03 PM" src="https://user-images.githubusercontent.com/106416383/179335393-bc1daff6-db4b-4ecd-b13b-05ff8b241696.png">
 
 ### Attempts by Year
-The years: 1986, 2001, 2007, and 2009 saw the highest occurrence of prison break attempts by means of a helicopter, each with four recorded attempts.
+The years: 1986, 2001, 2007, and 2009 saw the highest occurrence of prison break attempts by means of a helicopter, each with three recorded attempts.
 
-<img width="375" alt="Screen Shot 2022-07-15 at 10 24 50 PM" src="https://user-images.githubusercontent.com/106416383/179335532-7da1c842-becf-43c3-86e5-3b5f3ad33629.png">
+<img width="575" alt="Screen Shot 2022-07-15 at 10 24 50 PM" src="https://user-images.githubusercontent.com/106416383/179335532-7da1c842-becf-43c3-86e5-3b5f3ad33629.png">
